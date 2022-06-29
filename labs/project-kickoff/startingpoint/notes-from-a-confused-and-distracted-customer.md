@@ -1,4 +1,8 @@
-
+* Breakout 
+  - Need to have number 
+  - Optionally priorities
+    * Inventory 
+  
 
 * People 
   - Anon
