@@ -35,3 +35,28 @@
 4. Repeat until hours are gone
 
 
+### Observations
+* Poll
+
+* Product backlog and sprint backlog
+  - Product backlog is customer-facing
+  - Sprint backlog is team-facing
+  
+* Work together however 
+  - teams, sheets, zoom.
+  
+* It's hard
+  - Some of it gets better
+  
+* Options:
+  - Nominate a driver 
+  - I could drive from scratch
+  - Look at 1 teams work 
+    o kudos
+	o complaints
+
+* Wish List
+  - More on Product Backlog v Sprint Backlog
+  - More estimation practice
+    o Miro games
+  
