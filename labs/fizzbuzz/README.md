@@ -19,7 +19,10 @@ Your output should look like this:
 > fizz  
 > 4  
 > buzz  
-> ...  
+> 6 fizz
+> 7 7
+> 8 8
+> 9 fizz
 
 
 ## Requirements

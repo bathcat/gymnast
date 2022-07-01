@@ -14,6 +14,14 @@
 2. Review Quiz
 
 3. Daily Standup
+   * Formula 
+     - What I did yesterday?
+	   o Make it up
+	   o What you did
+	 - What I'm doing today
+	   o make it up or whatever
+	 - Blockers 
+	   o Put them on my list (unless they're made up)
 
 4. Twitter Clone (?)
   - In defence of snakes
